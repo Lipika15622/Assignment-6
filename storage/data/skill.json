@@ -1,0 +1,45 @@
+
+
+[{
+
+    "id" : "1",
+    "tittle" : "O365",
+    "description": "Microsoft 365 is a product family of productivity software, collaboration and cloud-based services owned by Microsoft."
+},
+
+    {
+
+        "id" : "2",
+        "tittle" : "ServiceNow",
+        "description": "ServiceNow is a cloud-based software company that provides a platform to help businesses manage their digital workflows."
+    },
+
+
+
+{
+    "id" : "3",
+    "tittle" : "ITIL",
+    "description": "The Information Technology Infrastructure Library is a set of practices and a framework for IT activities such as IT service management and IT asset management that focus on aligning IT services with the needs of the business."
+},
+{
+
+    "id" : "4",
+    "tittle" : "Web Application",
+    "description": "A web application (web app) is an application program that is stored on a remote server and delivered over the internet through a browser interface. Web services are web apps by definition and many, although not all, websites contain web apps."
+},
+
+    {
+
+        "id" : "5",
+        "tittle" : "App Development",
+        "description": "Application development is the process of creating software applications for computers and other computing devices, such as mobile phones and pocket PCs."
+    },
+
+
+
+{
+    "id" : "6",
+    "tittle" : "Sports",
+    "description": "Cricket is a bat-and-ball game that is played between two teams of eleven players on a field, at the centre of which is a 22-yard (20-metre; 66-foot) pitch with a wicket at each end, each comprising two bails balanced on three stumps. . "
+}
+]

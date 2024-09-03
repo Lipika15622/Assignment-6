@@ -1,0 +1,7 @@
+There are the following pages in the portfolio site:
+Home
+About
+Skill
+ShowSkill (Clicking on each skill "Read More" will open a new page with the skill details.
+
+When you scroll down by your keyboard, then you will be able to see the navigation bar. Otherwise, navigation bar can't be seen. It's the main reason for front-end development (I think).
